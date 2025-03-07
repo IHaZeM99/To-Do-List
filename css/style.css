@@ -28,12 +28,6 @@
     width: 30px;
     margin-left: 10px;
 }
-.todo-app h2 input{
-    margin-left: 200px;
-    font-family: sans-serif;
-    color: #333;
-    border: 1px solid #ccc;
-}
 .row{
     display: flex;
     align-content: center;
